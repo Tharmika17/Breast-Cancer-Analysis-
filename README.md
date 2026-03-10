@@ -1,4 +1,4 @@
-# Breast Cancer Patient Analysis Dashboard
+# 🧬 Breast Cancer Patient Analysis Dashboard
 
 ## 📊 Project Overview
 
