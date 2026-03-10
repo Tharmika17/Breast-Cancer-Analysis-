@@ -123,3 +123,12 @@ This dashboard focuses on **tumor characteristics and disease progression across
 
 ---
 
+## 📚 Data Source and License
+
+- The dataset used in this project was obtained from Kaggle: https://www.kaggle.com/datasets/reihanenamdari/breast-cancer
+
+- License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+- This dataset is derived from the SEER (Surveillance, Epidemiology, and End Results) Program of the U.S. National Cancer Institute.
+
+- This project is created for educational and analytical purposes only. The analysis presented in this repository does not provide medical advice or clinical recommendations.
