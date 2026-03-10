@@ -115,7 +115,7 @@ This dashboard focuses on **tumor characteristics and disease progression across
 
 ### 📊 Patient Demographics & Survival Overview
 
-*(Insert dashboard screenshot here)*
+![Patient Dashboard](Patient_overview.png)
 
 ### 📊 Cancer Stage Characteristics
 
